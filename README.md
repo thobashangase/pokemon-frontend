@@ -1,3 +1,11 @@
+# pokemon-frontend
+
+The Pokemon App coding challenge frontend repository, built in React. The Angular version can be found [here](https://github.com/thobashangase/Pokemon_Frontend) A repo to the REST API built with .NET 6 is available [here](https://github.com/thobashangase/Pokemon_Api).
+
+## Author
+
+- [@thobashangase](https://www.github.com/thobashangase)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
